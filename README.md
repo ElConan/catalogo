@@ -54,17 +54,19 @@ php artisan migrate
 
 php artisan serve
 
+8. Usar la siguiente url para probar
+http://127.0.0.1:8000/productos
 ---
 
 ## 📷 Evidencia
 
-Adjuntar capturas o video mostrando:
-- Crear producto
-- Editar producto
-- Eliminar producto
-- Base de datos actualizada
+Adjunto evidencia de la base de datos y del crud funcional 
+![alt text](image.png)
 
----
+Crud funcional
+![alt text](image-1.png)
+![alt text](image-2.png)
+
 
 ## 👨‍💻 Autor
-Tu Nombre
+Nicolas Altamirano 
