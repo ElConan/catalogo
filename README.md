@@ -58,6 +58,15 @@ php artisan serve
 http://127.0.0.1:8000/productos
 ---
 
+## 📷 Evidencia
+
+Adjunto evidencia de la base de datos y del crud funcional 
+![alt text](image.png)
+
+Crud funcional
+![alt text](image-1.png)
+![alt text](image-2.png)
+
 
 ## 👨‍💻 Autor
 Nicolas Altamirano 
